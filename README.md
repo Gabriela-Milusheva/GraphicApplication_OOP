@@ -65,4 +65,9 @@ By choosing the "Undo" and "Redo" options from the menu located at the top of th
 
 ## Saving and Loading Shapes
 
+To save your drawn figures for future editing, follow these steps: 
+- select "File" from the menu at the top of the window
+- choose the option "Save" from the drop-down menu
+-  save the file containing the figures to your desired location, and assign it a name.
+
 ## Exporting Shapes
