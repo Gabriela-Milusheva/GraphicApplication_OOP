@@ -13,7 +13,7 @@ The Graphic Design Application provides users the ability to interact with graph
 
 ## Drawing Shapes
 
-To draw a shape, simply choose the desired shape from the available buttons. Next, select the outline and fill color from the menu. Then, left-click on the canvas and drag the mouse to to increase the size the shape. Finally, left-click again to finalize the drawing. **_(🎞Video: 00:00-00:50)_**
+To draw a shape, simply choose the desired shape from the available buttons. Next, select the outline and fill color from the menu. Then, left-click on the canvas and drag the mouse to increase the Size of the shape. Finally, left-click again to finalize the drawing. **_(🎞Video: 00:00-00:50)_**
 
 ## Selecting Shapes
 
