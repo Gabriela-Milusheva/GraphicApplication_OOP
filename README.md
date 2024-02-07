@@ -71,3 +71,5 @@ To save your drawn figures for future editing, follow these steps:
 -  save the file containing the figures to your desired location, and assign it a name.
 
 ## Exporting Shapes
+
+To export the shapes, navigate to "File" -> "Export" -> check the checkbox corresponding to the desired format. The parameters of the shapes can be exported in txt, json, or xml formats, while the canvas on which we have drawn can be saved as a jpeg file.
