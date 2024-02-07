@@ -9,11 +9,11 @@ You can see how to use the application in the video below:
 
 [![Watch the video](https://img.youtube.com/vi/HaZKv9p3VdY/0.jpg)](https://youtu.be/HaZKv9p3VdY)
 
-The Graphic Design Application provides users the ability to interact with graphical shapes. With this application, users can easily create, manipulate, and analyze a variety of shapes. Additionally, the program includes functionality for saving and loading shapes from files, along with other useful features to enhance the user experience. These include Undo and Redo buttons, functions for computing the area of specific shapes, options for selecting, copying, moving, pasting, deleting, and changing the color of already drawn shapes. Additionally, users can export the drawn shapes in various formats such as txt, json, xml, or jpeg.
+The Graphic Design Application provides users the ability to interact with graphical shapes. With this application, users can easily create, manipulate, and analyze a variety of shapes. Additionally, the program includes functionality for saving and loading shapes from files, along with other useful features to enhance the user experience. These include Undo and Redo buttons, functions for computing the area of specific shapes, options for selecting, copying, moving, pasting, deleting, and changing the color of already drawn shapes. Additionally, users can export the drawn shapes in various formats such as txt, json, xml or jpeg.
 
 ## Drawing Shapes
 
-To draw a shape, simply choose the desired shape from the available buttons. Next, select the outline and fill color from the menu. Then, left-click on the canvas and drag the mouse to increase the Size of the shape. Finally, left-click again to finalize the drawing. **_(🎞Video: 00:00-00:50)_**
+To draw a shape, simply choose the desired shape from the available buttons. Next, select the outline and fill color from the menu. Then, left-click on the canvas and drag the mouse to increase the size of the shape. Finally, left-click again to finalize the drawing. **_(🎞Video: 00:00-00:50)_**
 
 ## Selecting Shapes
 
